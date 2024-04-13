@@ -1,6 +1,6 @@
 {
-  "name": "cli-currency-converter",
-  "version": "1.0.0",
+  "name": "p1-cli-currency-converter",
+  "version": "1.0.2",
   "description": "I'm creating a Currency Converter Program using TypeScript, Node.js, and the Inquirer library.",
   "main": "index.js",
   "type": "module",
