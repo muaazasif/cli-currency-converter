@@ -1,0 +1,23 @@
+{
+  "name": "cli-currency-converter",
+  "version": "1.0.0",
+  "description": "I'm creating a Currency Converter Program using TypeScript, Node.js, and the Inquirer library.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amount": "^1.0.6",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.17",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
