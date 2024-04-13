@@ -9,7 +9,7 @@ To use the Currency Converter CLI, make sure you have Node.js installed on your 
 Once Node.js is installed, you can install the currency converter globally using npm:
 
 ```bash
-npm install -g m6ra22-currency-converter-cli
+npx p1-cli-currency-converter
 ```
 
 ## Features
